@@ -1,3 +1,3 @@
 # shell_scripts
 Shell Scripts programs
-echo "Hiii"
+echo "Hi! Jenkins is getting the logs"
