@@ -1,4 +1,5 @@
 #!/bin/bash
+echo "Jenkins"
 
 function log_status() {
   testidx=$1
